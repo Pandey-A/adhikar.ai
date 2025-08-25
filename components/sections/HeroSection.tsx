@@ -23,7 +23,7 @@ const HeroSection = () => {
 
         <h1 className="text-2xl sm:text-xl lg:text-5xl font-bold mb-4">
           <span className="block">
-            Seamless Legal Support for <br /> India with AI
+            Seamless Legal Support <br />  with AI
           </span>
         </h1>
 

@@ -30,7 +30,7 @@ const HeroSection = () => {
         <p className="text-md text-muted-foreground mb-4 max-w-3xl mx-auto leading-relaxed">
           Your intelligent legal companion for document drafting, real-time
           translation, case research, and secure access to verified advocates
-          across India.
+          across India
         </p>
 
         <div className="flex items-center justify-center gap-2">
